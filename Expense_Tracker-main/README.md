@@ -61,12 +61,4 @@ Follow these steps to set up and run the Expense Tracker locally on your machine
 2. Add your expenses, categorize them, and set budgets to get insights into your spending habits.
 3. Explore the graphical representations to visualize your spending patterns over time.
 
-
-## Authors
-
-[Alagappan](https://github.com/alagappan567)
-[vigneshwari](https://github.com/jknlk)
-[kathirvel](https://github.com/KathirvelKannan)
-[kanimozhi](https://github.com/Kanimozhiparthiban1012)
-
 # Expense_Tracker
